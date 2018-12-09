@@ -1,0 +1,53 @@
+.bg 
+{background-image: url("wide.PNG");
+background-position:center;
+background-repeat:no repeat;
+color: white;
+text-shadow: 3px 2px gray;
+border-style:double;
+outline-color:blue;
+text-align:center;
+padding: 10px 200px 30px 200px;
+font-family: 'Helvetica Neue', sans-serif;
+font-size: 30px;
+font-weight: bold;
+letter-spacing: -1px; 
+line-height: 1;  
+
+}
+.link
+{ 
+  padding: 20px 20px 20px 20px;
+  font-size: 30px;
+  color:white;
+  margin-top: 20px;
+  margin-left: 850px;
+  margin-right: 50px;
+  border-style:double;
+  font-family: 'Helvetica Neue', sans-serif;
+  text-shadow: 3px 2px gray;
+  background-image: url("brick.PNG");
+  text-align:center;
+  
+}
+.info
+{ 
+   margin-top: -180px;
+   background-image: url("carg.JPG");
+   background-position:center;
+   margin-left: 30px;
+   margin-right: 520px;
+   text-align:center;
+   font-size: 20px;
+   color:white;
+   border-style: solid;
+   border-color:rgb(211,211,211);
+   
+   
+} 
+	
+.sample
+{ margin-top:  40px;
+  margin-left:20px;
+  background-color: black;
+}

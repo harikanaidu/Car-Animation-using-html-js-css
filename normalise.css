@@ -1,0 +1,95 @@
+.wheel{
+	width:50px;
+	height:50px;
+	border-radius:100%;
+	background:rgb(32,178,170);
+	margin:-20px 10px 0 10px;
+}
+.flt-left{
+  	float:left; 
+}
+.flt-right{
+	float:right;
+}
+.clear{
+ clear:both;	 
+}
+.car{
+ 	width:250px;
+}
+.car-head{
+ 	width:60%;
+	margin:auto;
+  	background: rgb(32,178,170);
+  	height:70px;
+}
+.car-bottom{
+ 	width:100%;
+	margin:auto;
+  	background:rgb(0,139,139);
+  	height:50px;
+}
+.sep
+{
+  background-color: gray;
+  height:20px;
+  width:250px;
+  margin-left: 100px;
+}
+.clear3{
+ clear:both;	 
+}
+.sep2
+{
+  background-color: gray;
+  height:20px;
+  width:250px;
+  margin-top:-20px;
+  margin-left: 500px;
+}
+.clear4{
+ clear:both;	 
+}
+.sep3
+{
+  background-color: gray;
+  height:20px;
+  width:250px;
+  margin-top:-20px;
+  margin-left: 900px;
+}
+.clear5{
+ clear:both;	 
+}
+
+.wheel2{
+	width:50px;
+	height:50px;
+	border-radius:100%;
+	background:rgb(128,0,0);
+	margin:-20px 10px 0 10px;
+}
+.flt-left2{
+  	float:left; 
+}
+.flt-right2{
+	float:right;
+}
+.clear2{
+ clear:both;	 
+}
+.car2{
+ 	width:250px;
+}
+.car-head2{
+ 	width:60%;
+	margin:auto;
+  	background:rgb(128,0,0);
+  	height:70px;
+}
+.car-bottom2{
+ 	width:100%;
+	margin:auto;
+  	background:rgb(165,42,42);
+  	height:50px;
+}

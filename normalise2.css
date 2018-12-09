@@ -1,0 +1,31 @@
+.wheel{
+	width:50px;
+	height:50px;
+	border-radius:100%;
+	background:brown;
+	margin:-20px 10px 0 10px;
+}
+.flt-left{
+  	float:left; 
+}
+.flt-right{
+	float:right;
+}
+.clear{
+ clear:both;	 
+}
+.car{
+ 	width:250px;
+}
+.car-head{
+ 	width:60%;
+	margin:auto;
+  	background:gray;
+  	height:70px;
+}
+.car-bottom{
+ 	width:100%;
+	margin:auto;
+  	background:gray;
+  	height:50px;
+}
